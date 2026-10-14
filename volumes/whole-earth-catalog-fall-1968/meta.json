@@ -1,14 +1,14 @@
 {
   "slug": "whole-earth-catalog-fall-1968",
   "title_en": "Whole Earth Catalog — Fall 1968",
-  "title_zh": "全球概览 — 1968 年秋",
+  "title_zh": "全球概览 — 1968年秋（创刊号）",
   "collection": "whole-earth-catalogs",
   "date_label": "Fall 1968",
   "archive_id": "wholeearthcatalo00unse_8",
   "wholeearth_url": "https://wholeearth.info/p/whole-earth-catalog-fall-1968",
   "ia_details": "https://archive.org/details/wholeearthcatalo00unse_8",
   "ia_pdf": "https://archive.org/download/wholeearthcatalo00unse_8/wholeearthcatalo00unse_8.pdf",
-  "status": "planned",
+  "status": "in_progress",
   "language_pair": [
     "en",
     "zh-CN"
@@ -18,5 +18,8 @@
     "full_translation": true,
     "keep_figures": true,
     "accumulate_lessons": true
-  }
+  },
+  "seq": 1,
+  "is_founding_issue": true,
+  "page_count_ia": 70
 }

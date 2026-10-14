@@ -42,7 +42,13 @@ Before publishing full text: get permission (or a clear legal basis). Until then
 
 说明见 [docs/RIGHTS.md](./docs/RIGHTS.md)。
 
+## 从哪一本开始 / Where we start
+
+**第 1 本 = 1968 年秋《全球概览》创刊号**（Whole Earth Catalog, Fall 1968）。  
+按 [`INDEX.md`](./INDEX.md) / [`data/reading-order.json`](./data/reading-order.json) 的全局序号一本本做，不跳号。全系列 147 本都在总索引里。
+
 ## 怎么一本本做 / Volume workflow
+
 
 见 [docs/WORKFLOW.md](./docs/WORKFLOW.md)。摘要：
 
