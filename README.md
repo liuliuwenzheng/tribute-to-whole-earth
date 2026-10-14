@@ -1,63 +1,54 @@
-# wholeearth-i18n · 全球地球索引多语言
+# 致敬伟大的全球概览
 
-**EN:** Community project to reverse-engineer the public structure of [wholeearth.info](https://wholeearth.info/) and rebuild a **multilingual** Whole Earth Index shell (UI + metadata first). Method inspired by agent-oriented reverse engineering ([rea.tools](https://rea.tools/)): inspect → recover structure → rebuild what you can change.
+**Tribute to the Whole Earth Catalog**
 
-**中文：** 社区项目：摸清 [wholeearth.info](https://wholeearth.info/) 公开结构，重建**多语言** Whole Earth 索引壳（先做界面与元数据）。做法借鉴面向编程代理的逆向思路（[rea.tools](https://rea.tools/)）：先检查、再恢复结构、再重建可改的部分。
+中英对照索引 · 便于随时查阅  
+EN/中文 bilingual index · ready to browse anytime
 
-> Unofficial. Not affiliated with Stewart Brand, POINT Foundation, or wholeearth.info.  
-> 非官方。与上述权利方及原站无关。详见 [NOTICE.md](./NOTICE.md)。
+---
 
-## Why / 为什么做
+## 这是什么 / What this is
 
-[wholeearth.info](https://wholeearth.info/) is a beautiful English-only archive of Whole Earth publications (1968–2002). This repo aims to make **navigation and issue metadata** readable in many languages, while page scans stay on the [Internet Archive](https://archive.org/).
+我们对 Stewart Brand 创办的 **《全球概览》（Whole Earth Catalog）** 及其系列刊物（约 1968–2002）做**数字化索引整理**，做成**中英对照**，方便随时打开查看。
 
-原站是英文索引。本仓目标是让**导航与刊号元数据**多语言可读，扫描页仍外链 Internet Archive。
+We digitize and index the **Whole Earth Catalog** family of publications as a **Chinese–English** browsing aid.
 
-## Current snapshot / 当前快照
+本仓库**不是**官方项目，也**不声称**拥有刊物版权。我们只做整理与对照；正文与扫描页仍归原权利方，页面影像请走 [Internet Archive](https://archive.org/) / [wholeearth.info](https://wholeearth.info/)。
 
-| Item | Value |
+This repo is **unofficial**. We only organize and bilingualize the index; we do **not** claim the publications. Scans stay on IA / the original index site.
+
+当前范围：**只做中英**。目录与译文收集齐全后，再考虑下一步。  
+Scope for now: **Chinese + English only**. More work after the catalog is complete.
+
+## 致谢 / Credits
+
+刊物与事业属于开创者与历代贡献者；我们在此致敬并声明清楚：
+
+| 角色 | 致谢 |
 | --- | --- |
-| Source | https://wholeearth.info/ |
-| Collections | 6 |
-| Publications mapped | **147** (`data/catalog.json`) |
-| Locales started | `en`, `zh-CN` |
-| Page images in git | **None** (link-out only) |
+| 创办人 Founder | **Stewart Brand** |
+| 出版机构 Publisher | **POINT Foundation** 及 Whole Earth 相关团队 |
+| 历代编辑与作者 Editors & writers | CoEvolution Quarterly、Whole Earth Review、Whole Earth Magazine 等各期编辑、作者、插画与工具书评贡献者（1968–2002） |
+| 数字化托管 Digitization host | [Internet Archive](https://archive.org/) 及其志愿者与支持者 |
+| 公开索引站 Index site | [wholeearth.info](https://wholeearth.info/)（设计致谢 **Jon Gacnik**、**Mindy Seu** 等） |
+| 可检索伴侣项目 Search companion | [searchwhole.earth](https://searchwhole.earth/)（Lucas Gelfond 等，可参考，非本仓范围） |
 
-## Layout / 目录
+若名单有疏漏，欢迎开 Issue 补全。Omissions welcome via Issues.
+
+## 仓库里有什么 / What’s in the repo
 
 ```
-data/catalog.json          # extracted collection → publication → archive_id map
-locales/en.json            # UI strings (English)
-locales/zh-CN.json         # UI strings (简体中文)
-docs/reverse-engineering.md
-prompts/inspect-and-extend.md
-scripts/inspect_homepage.py
-NOTICE.md                  # copyright boundaries
+data/catalog.json     # 147 份刊物目录（系列 → 刊号 → IA id）
+locales/en.json       # English UI
+locales/zh-CN.json    # 简体中文 UI
+scripts/inspect_homepage.py  # 从 wholeearth.info 首页刷新目录
 ```
-
-## Quick start / 快速开始
 
 ```bash
-# refresh catalog from the live homepage
 python3 scripts/inspect_homepage.py
 ```
 
-Give your coding agent the prompt in [`prompts/inspect-and-extend.md`](./prompts/inspect-and-extend.md).
+## 许可 / License
 
-## Roadmap / 路线图
-
-1. ~~Create repo + catalog extract + EN/zh-CN UI locales~~ (done)
-2. Static multilingual browser for collections / publications
-3. Per-locale title translations (`data/translations/`)
-4. More languages (ja, es, fr, …) via locale PRs
-5. Optional: align metadata ideas with [search-whole-earth](https://github.com/lucasgelfond/search-whole-earth) (search is out of scope here)
-
-## Related / 相关
-
-- Original index: [wholeearth.info](https://wholeearth.info/)
-- Searchable companion (upstream community): [searchwhole.earth](https://searchwhole.earth/) · [lucasgelfond/search-whole-earth](https://github.com/lucasgelfond/search-whole-earth)
-- Reverse-engineering for agents (inspiration): [rea.tools](https://rea.tools/)
-
-## License / 许可
-
-Code and locale packs: [MIT](./LICENSE). Historical publication content: see [NOTICE.md](./NOTICE.md).
+本仓库代码与语言包：[MIT](./LICENSE)。  
+刊物内容版权：见上表原权利方；本仓不镜像全文扫描。

@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-"""Re-extract publication catalog from https://wholeearth.info/ homepage HTML."""
-from __future__ import annotations
+"""Refresh data/catalog.json from wholeearth.info homepage."""
+Refresh data/catalog.json from https://wholeearth.info/
+# Refresh data/catalog.json from https://wholeearth.info/
+# Refresh data/catalog.json from https://wholeearth.info/
 
 import json
 import re
