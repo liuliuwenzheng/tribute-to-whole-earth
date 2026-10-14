@@ -18,6 +18,7 @@
 - [ ] figures（图与图注对齐；条目已挂 ia_image_url）
 - [ ] link
 - [x] lessons（多栏 OCR / 板块边界 / 批量起草 / 全卷中译经验）
+- [x] local reader（本机双语浏览）：`/workspace/tribute-work/whole-earth-catalog-fall-1968/reader/`（全文仅本地，未进公开仓）
 - [ ] done
 
 本机工作区：`/workspace/tribute-work/whole-earth-catalog-fall-1968/`  
