@@ -18,8 +18,22 @@
 - [ ] figures（图与图注对齐；条目已挂 ia_image_url）
 - [ ] link
 - [x] lessons（多栏 OCR / 板块边界 / 批量起草 / 全卷中译经验）
-- [x] local reader（本机双语浏览）：`/workspace/tribute-work/whole-earth-catalog-fall-1968/reader/`（全文仅本地，未进公开仓）
+- [x] local reader（本机双语浏览）：`tribute-work/.../reader/`（全文仅本地，未进公开仓）
+- [x] original downloads（本机）：PDF / EPUB；公开仓**不**存放整书二进制，仅下列 IA 直链
+- [x] page viewer v1（本机）：`reader/page.html` — 原版页图为主体，悬停 hOCR 区块出中英解释
 - [ ] done
+
+## 原版下载（Internet Archive）
+
+Identifier: `wholeearthcatalo00unse_8`
+
+- 详情页: https://archive.org/details/wholeearthcatalo00unse_8
+- PDF (~19MB): https://archive.org/download/wholeearthcatalo00unse_8/wholeearthcatalo00unse_8.pdf
+- EPUB (~11MB): https://archive.org/download/wholeearthcatalo00unse_8/wholeearthcatalo00unse_8.epub
+- hOCR 词框: https://archive.org/download/wholeearthcatalo00unse_8/wholeearthcatalo00unse_8_hocr.html
+- JP2 高清页 zip (~106MB): https://archive.org/download/wholeearthcatalo00unse_8/wholeearthcatalo00unse_8_jp2.zip
+
+版权：Stewart Brand / Portola 等；IA 扫描供查阅。致敬项目不替代原版；全文译稿与整书文件留本机。
 
 本机工作区：`/workspace/tribute-work/whole-earth-catalog-fall-1968/`  
 进度计数：`progress-entries.json`（updated Asia/Shanghai）  
