@@ -4,3 +4,8 @@
 - 当前公开仓默认内容：总目、说明、流程、结构模板、不含全文的元数据。  
 - 全文与译稿：建议放本机或私有位置，许可落地后再考虑公开镜像。  
 - 查阅原页：优先链接 [Internet Archive](https://archive.org/) 与 [wholeearth.info](https://wholeearth.info/)。
+
+## 配图 · Figures
+
+- 阅读体验要求：**图随文走，不丢图**。  
+- 公开仓优先存 IA 页图 URL；二进制大图仅在获得许可或仅本机使用时保存。  

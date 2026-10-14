@@ -9,6 +9,14 @@
   "ia_details": "https://archive.org/details/wholeearthcatalo00unse_8",
   "ia_pdf": "https://archive.org/download/wholeearthcatalo00unse_8/wholeearthcatalo00unse_8.pdf",
   "status": "planned",
-  "language_pair": ["en", "zh-CN"],
-  "note": "First volume to produce end-to-end. Full text stays local until rights allow public hosting."
+  "language_pair": [
+    "en",
+    "zh-CN"
+  ],
+  "note": "First volume: complete EN/中文 translation with figures preserved. Full text local until rights allow public hosting. Lessons feed later volumes.",
+  "standards": {
+    "full_translation": true,
+    "keep_figures": true,
+    "accumulate_lessons": true
+  }
 }

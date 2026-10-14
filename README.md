@@ -12,12 +12,12 @@ A Chinese–English digital encyclopedia of the Whole Earth publications: search
 
 不只做目录。我们要：
 
-1. **逐本制作**：一期一期 OCR → 结构化 → 中英全文对照  
-2. **可搜索**：题名、作者、工具、正文关键词  
-3. **可关联**：同一工具/人物/主题在不同刊期之间跳转  
-4. **可查阅**：像百科一样打开就读，让更多人接触这批过去有趣的文化  
+1. **完整翻译**：每一本正文、题注、图表说明都做中英对照，不删节  
+2. **配图不丢**：原刊插图、照片、图表随文保留（指向 IA 原图或经许可的本地副本），版式可读  
+3. **逐本积累**：一期做完再下一期；流程与坑写进卷内笔记，经验越攒越深  
+4. **可搜索 / 可关联 / 可查阅**：题名、作者、工具、正文可搜；主题与人物可跳转；像电子百科随时打开  
 
-Not a shelflist. Volume-by-volume full bilingual text, search, and cross-links—so more people can meet this culture.
+Complete translation (no abridgement), **images kept with the text**, volume-by-volume—and we keep the craft notes so later volumes get easier.
 
 ## 致谢 / Credits
 

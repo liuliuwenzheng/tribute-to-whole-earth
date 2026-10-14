@@ -1,0 +1,12 @@
+{
+  "archive_id": "wholeearthcatalo00unse_8",
+  "policy": "Keep figures via IA URLs; do not drop illustrations in the bilingual reader.",
+  "pages": [
+    {
+      "page": 0,
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/cover_w1000.jpg",
+      "role": "cover"
+    }
+  ],
+  "todo": "Expand to full page list during OCR pass"
+}

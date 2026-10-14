@@ -1,0 +1,11 @@
+{
+  "archive_id": "REPLACE",
+  "policy": "Prefer IA page image URLs in git; store binary copies only when rights allow.",
+  "pages": [
+    {
+      "page": 0,
+      "ia_image_url": "https://archive.org/download/REPLACE/page/cover_w1000.jpg",
+      "role": "cover"
+    }
+  ]
+}
