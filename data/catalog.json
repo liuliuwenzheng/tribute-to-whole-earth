@@ -1,0 +1,1231 @@
+{
+  "source": "https://wholeearth.info/",
+  "extracted_at": "2026-10-14T02:53:37Z",
+  "publication_count": 147,
+  "collections": [
+    {
+      "id": "whole-earth-catalogs",
+      "index": "①",
+      "name_en": "Whole Earth Catalogs",
+      "count": 24,
+      "publications": [
+        {
+          "slug": "whole-earth-catalog-fall-1968",
+          "path": "/p/whole-earth-catalog-fall-1968",
+          "title": "Fall 1968",
+          "archive_id": "wholeearthcatalo00unse_8",
+          "url": "https://wholeearth.info/p/whole-earth-catalog-fall-1968",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "whole-earth-catalog-spring-1969",
+          "path": "/p/whole-earth-catalog-spring-1969",
+          "title": "Spring 1969",
+          "archive_id": "wholeearthcatalo00unse_10",
+          "url": "https://wholeearth.info/p/whole-earth-catalog-spring-1969",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1969",
+          "path": "/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1969",
+          "title": "July 1969",
+          "archive_id": "difficultbutposs00unse",
+          "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1969",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "whole-earth-catalog-fall-1969",
+          "path": "/p/whole-earth-catalog-fall-1969",
+          "title": "Fall 1969",
+          "archive_id": "wholeearthcatalo00unse_7",
+          "url": "https://wholeearth.info/p/whole-earth-catalog-fall-1969",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1969",
+          "path": "/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1969",
+          "title": "September 1969",
+          "archive_id": "difficultbutposs00unse_0",
+          "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1969",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1970",
+          "path": "/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1970",
+          "title": "January 1970",
+          "archive_id": "wholeearthcatalo00unse_6",
+          "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1970",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "whole-earth-catalog-spring-1970",
+          "path": "/p/whole-earth-catalog-spring-1970",
+          "title": "Spring 1970",
+          "archive_id": "wholeearthcatalo00unse_1",
+          "url": "https://wholeearth.info/p/whole-earth-catalog-spring-1970",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "difficult-but-possible-supplement-to-the-whole-earth-catalog-march-1970",
+          "path": "/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-march-1970",
+          "title": "March 1970",
+          "archive_id": "wholeearthcatalo00unse_5",
+          "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-march-1970",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1970",
+          "path": "/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1970",
+          "title": "July 1970",
+          "archive_id": "wholeearthcatalo00unse_9",
+          "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1970",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "whole-earth-catalog-fall-1970",
+          "path": "/p/whole-earth-catalog-fall-1970",
+          "title": "Fall 1970",
+          "archive_id": "wholeearthcatalo00unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-catalog-fall-1970",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1970",
+          "path": "/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1970",
+          "title": "September 1970",
+          "archive_id": "wholeearthcatalo00unse_4",
+          "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1970",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "the-last-whole-earth-catalog-january-1971",
+          "path": "/p/the-last-whole-earth-catalog-january-1971",
+          "title": "January 1971",
+          "archive_id": "lastwholeearthca00unse",
+          "url": "https://wholeearth.info/p/the-last-whole-earth-catalog-january-1971",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1971",
+          "path": "/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1971",
+          "title": "January 1971",
+          "archive_id": "wholeearthcatalo00unse_3",
+          "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1971",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "the-last-supplement-to-the-whole-earth-catalog-march-1971",
+          "path": "/p/the-last-supplement-to-the-whole-earth-catalog-march-1971",
+          "title": "March 1971",
+          "archive_id": "lastsupplementto00unse",
+          "url": "https://wholeearth.info/p/the-last-supplement-to-the-whole-earth-catalog-march-1971",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "whole-earth-epilog-teaser",
+          "path": "/p/whole-earth-epilog-teaser",
+          "title": "April 1974",
+          "archive_id": "wholeearthepilog00unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-epilog-teaser",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "whole-earth-epilog-october-1974",
+          "path": "/p/whole-earth-epilog-october-1974",
+          "title": "October 1974",
+          "archive_id": "wholeearthepilog00unse",
+          "url": "https://wholeearth.info/p/whole-earth-epilog-october-1974",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "the-updated-last-whole-earth-catalog-june-1975",
+          "path": "/p/the-updated-last-whole-earth-catalog-june-1975",
+          "title": "June 1975",
+          "archive_id": "updatedlastwhole00unse",
+          "url": "https://wholeearth.info/p/the-updated-last-whole-earth-catalog-june-1975",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "the-next-whole-earth-catalog-fall-1980",
+          "path": "/p/the-next-whole-earth-catalog-fall-1980",
+          "title": "Fall 1980",
+          "archive_id": "nextwholeearthca00unse",
+          "url": "https://wholeearth.info/p/the-next-whole-earth-catalog-fall-1980",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "the-essential-whole-earth-catalog-september-1968",
+          "path": "/p/the-essential-whole-earth-catalog-september-1968",
+          "title": "September 1986",
+          "archive_id": "essentialwholeea00unse",
+          "url": "https://wholeearth.info/p/the-essential-whole-earth-catalog-september-1968",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "signal-communication-tools-for-the-information-age",
+          "path": "/p/signal-communication-tools-for-the-information-age",
+          "title": "1988",
+          "archive_id": "wholeearthcatalo00unse_2",
+          "url": "https://wholeearth.info/p/signal-communication-tools-for-the-information-age",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "the-fringes-of-reason",
+          "path": "/p/the-fringes-of-reason",
+          "title": "1989",
+          "archive_id": "fringesofreasonw00unse",
+          "url": "https://wholeearth.info/p/the-fringes-of-reason",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "whole-earth-ecolog",
+          "path": "/p/whole-earth-ecolog",
+          "title": "1990",
+          "archive_id": "wholeearthecolog00unse",
+          "url": "https://wholeearth.info/p/whole-earth-ecolog",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "the-millennium-whole-earth-catalog-december-1994",
+          "path": "/p/the-millennium-whole-earth-catalog-december-1994",
+          "title": "December 1994",
+          "archive_id": "millenniumwholee00unse",
+          "url": "https://wholeearth.info/p/the-millennium-whole-earth-catalog-december-1994",
+          "collection": "whole-earth-catalogs"
+        },
+        {
+          "slug": "whole-earth-catalog-30th-anniversary-winter-1998",
+          "path": "/p/whole-earth-catalog-30th-anniversary-winter-1998",
+          "title": "Winter 1998",
+          "archive_id": "wholeearthcatalo00unse",
+          "url": "https://wholeearth.info/p/whole-earth-catalog-30th-anniversary-winter-1998",
+          "collection": "whole-earth-catalogs"
+        }
+      ]
+    },
+    {
+      "id": "coevolution-quarterly",
+      "index": "②",
+      "name_en": "CoEvolution Quarterly",
+      "count": 43,
+      "publications": [
+        {
+          "slug": "coevolution-quarterly-spring-1974",
+          "path": "/p/coevolution-quarterly-spring-1974",
+          "title": "Spring 1974",
+          "archive_id": "coevolutionquart00unse_41",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1974",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1974",
+          "path": "/p/coevolution-quarterly-summer-1974",
+          "title": "Summer 1974",
+          "archive_id": "coevolutionquart00unse",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1974",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1974",
+          "path": "/p/coevolution-quarterly-fall-1974",
+          "title": "Fall 1974",
+          "archive_id": "coevolutionquart00unse_0",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1974",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1974",
+          "path": "/p/coevolution-quarterly-winter-1974",
+          "title": "Winter 1974",
+          "archive_id": "coevolutionquart00unse_1",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1974",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1975",
+          "path": "/p/coevolution-quarterly-spring-1975",
+          "title": "Spring 1975",
+          "archive_id": "coevolutionquart00unse_2",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1975",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1975",
+          "path": "/p/coevolution-quarterly-summer-1975",
+          "title": "Summer 1975",
+          "archive_id": "coevolutionquart00unse_3",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1975",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1975",
+          "path": "/p/coevolution-quarterly-fall-1975",
+          "title": "Fall 1975",
+          "archive_id": "coevolutionquart00unse_4",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1975",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1975",
+          "path": "/p/coevolution-quarterly-winter-1975",
+          "title": "Winter 1975",
+          "archive_id": "coevolutionquart00unse_5",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1975",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1976",
+          "path": "/p/coevolution-quarterly-spring-1976",
+          "title": "Spring 1976",
+          "archive_id": "coevolutionquart00unse_6",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1976",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1976",
+          "path": "/p/coevolution-quarterly-summer-1976",
+          "title": "Summer 1976",
+          "archive_id": "coevolutionquart00unse_7",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1976",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1976",
+          "path": "/p/coevolution-quarterly-fall-1976",
+          "title": "Fall 1976",
+          "archive_id": "coevolutionquart00unse_8",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1976",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1976-1977",
+          "path": "/p/coevolution-quarterly-winter-1976-1977",
+          "title": "Winter 1976",
+          "archive_id": "coevolutionquart00unse_9",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1976-1977",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1977",
+          "path": "/p/coevolution-quarterly-spring-1977",
+          "title": "Spring 1977",
+          "archive_id": "coevolutionquart00unse_10",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1977",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1977",
+          "path": "/p/coevolution-quarterly-summer-1977",
+          "title": "Summer 1977",
+          "archive_id": "coevolutionquart00unse_11",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1977",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1977",
+          "path": "/p/coevolution-quarterly-fall-1977",
+          "title": "Fall 1977",
+          "archive_id": "coevolutionquart00unse_12",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1977",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1978",
+          "path": "/p/coevolution-quarterly-winter-1978",
+          "title": "Winter 1977",
+          "archive_id": "coevolutionquart00unse_17",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1978",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1978",
+          "path": "/p/coevolution-quarterly-spring-1978",
+          "title": "Spring 1978",
+          "archive_id": "coevolutionquart00unse_14",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1978",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1978",
+          "path": "/p/coevolution-quarterly-summer-1978",
+          "title": "Summer 1978",
+          "archive_id": "coevolutionquart00unse_15",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1978",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1978",
+          "path": "/p/coevolution-quarterly-fall-1978",
+          "title": "Fall 1978",
+          "archive_id": "coevolutionquart00unse_16",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1978",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-whole-earth-jamboree-1968-1978",
+          "path": "/p/coevolution-quarterly-whole-earth-jamboree-1968-1978",
+          "title": "Winter 1978",
+          "archive_id": "coevolutionquart00unse_40",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-whole-earth-jamboree-1968-1978",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1979",
+          "path": "/p/coevolution-quarterly-spring-1979",
+          "title": "Spring 1979",
+          "archive_id": "coevolutionquart00unse_18",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1979",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1979",
+          "path": "/p/coevolution-quarterly-summer-1979",
+          "title": "Summer 1979",
+          "archive_id": "coevolutionquart00unse_19",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1979",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1979",
+          "path": "/p/coevolution-quarterly-fall-1979",
+          "title": "Fall 1979",
+          "archive_id": "coevolutionquart00unse_20",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1979",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1979",
+          "path": "/p/coevolution-quarterly-winter-1979",
+          "title": "Winter 1979",
+          "archive_id": "coevolutionquart00unse_21",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1979",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1980",
+          "path": "/p/coevolution-quarterly-spring-1980",
+          "title": "Spring 1980",
+          "archive_id": "coevolutionquart00unse_22",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1980",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1980",
+          "path": "/p/coevolution-quarterly-summer-1980",
+          "title": "Summer 1980",
+          "archive_id": "coevolutionquart00unse_23",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1980",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1980",
+          "path": "/p/coevolution-quarterly-winter-1980",
+          "title": "Winter 1980",
+          "archive_id": "coevolutionquart00unse_24",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1980",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1981",
+          "path": "/p/coevolution-quarterly-spring-1981",
+          "title": "Spring 1981",
+          "archive_id": "coevolutionquart00unse_25",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1981",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1981",
+          "path": "/p/coevolution-quarterly-summer-1981",
+          "title": "Summer 1981",
+          "archive_id": "coevolutionquart00unse_26",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1981",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1981",
+          "path": "/p/coevolution-quarterly-fall-1981",
+          "title": "Fall 1981",
+          "archive_id": "coevolutionquart00unse_27",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1981",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1981",
+          "path": "/p/coevolution-quarterly-winter-1981",
+          "title": "Winter 1981",
+          "archive_id": "coevolutionquart00unse_28",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1981",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1982",
+          "path": "/p/coevolution-quarterly-spring-1982",
+          "title": "Spring 1982",
+          "archive_id": "coevolutionquart00unse_29",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1982",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1982",
+          "path": "/p/coevolution-quarterly-summer-1982",
+          "title": "Summer 1982",
+          "archive_id": "coevolutionquart00unse_30",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1982",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1982",
+          "path": "/p/coevolution-quarterly-fall-1982",
+          "title": "Fall 1982",
+          "archive_id": "coevolutionquart00unse_31",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1982",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-catalog-october-1982",
+          "path": "/p/coevolution-catalog-october-1982",
+          "title": "October 1982",
+          "archive_id": "coevolutioncatal00unse",
+          "url": "https://wholeearth.info/p/coevolution-catalog-october-1982",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1982",
+          "path": "/p/coevolution-quarterly-winter-1982",
+          "title": "Winter 1982",
+          "archive_id": "coevolutionquart00unse_32",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1982",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1983",
+          "path": "/p/coevolution-quarterly-spring-1983",
+          "title": "Spring 1983",
+          "archive_id": "coevolutionquart00unse_33",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1983",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1983",
+          "path": "/p/coevolution-quarterly-summer-1983",
+          "title": "Summer 1983",
+          "archive_id": "coevolutionquart00unse_34",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1983",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1983",
+          "path": "/p/coevolution-quarterly-fall-1983",
+          "title": "Fall 1983",
+          "archive_id": "coevolutionquart00unse_35",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1983",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-winter-1983",
+          "path": "/p/coevolution-quarterly-winter-1983",
+          "title": "Winter 1983",
+          "archive_id": "coevolutionquart00unse_36",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1983",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-spring-1984",
+          "path": "/p/coevolution-quarterly-spring-1984",
+          "title": "Spring 1984",
+          "archive_id": "coevolutionquart00unse_37",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1984",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-summer-1984",
+          "path": "/p/coevolution-quarterly-summer-1984",
+          "title": "Summer 1984",
+          "archive_id": "coevolutionquart00unse_38",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1984",
+          "collection": "coevolution-quarterly"
+        },
+        {
+          "slug": "coevolution-quarterly-fall-1984",
+          "path": "/p/coevolution-quarterly-fall-1984",
+          "title": "Fall 1984",
+          "archive_id": "coevolutionquart00unse_39",
+          "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1984",
+          "collection": "coevolution-quarterly"
+        }
+      ]
+    },
+    {
+      "id": "whole-earth-software-review",
+      "index": "③",
+      "name_en": "Whole Earth Software Review",
+      "count": 5,
+      "publications": [
+        {
+          "slug": "whole-earth-software-review-no-1-spring-1984",
+          "path": "/p/whole-earth-software-review-no-1-spring-1984",
+          "title": "Spring 1984",
+          "archive_id": "wholeearthsoftwa00unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-software-review-no-1-spring-1984",
+          "collection": "whole-earth-software-review"
+        },
+        {
+          "slug": "whole-earth-software-review-no-2-summer-1984",
+          "path": "/p/whole-earth-software-review-no-2-summer-1984",
+          "title": "Summer 1984",
+          "archive_id": "wholeearthsoftwa00unse_4",
+          "url": "https://wholeearth.info/p/whole-earth-software-review-no-2-summer-1984",
+          "collection": "whole-earth-software-review"
+        },
+        {
+          "slug": "whole-earth-software-catalog-june-1984",
+          "path": "/p/whole-earth-software-catalog-june-1984",
+          "title": "June 1984",
+          "archive_id": "wholeearthsoftwa00unse_2",
+          "url": "https://wholeearth.info/p/whole-earth-software-catalog-june-1984",
+          "collection": "whole-earth-software-review"
+        },
+        {
+          "slug": "whole-earth-software-review-no-3-fall-1984",
+          "path": "/p/whole-earth-software-review-no-3-fall-1984",
+          "title": "Fall 1984",
+          "archive_id": "wholeearthsoftwa00unse_1",
+          "url": "https://wholeearth.info/p/whole-earth-software-review-no-3-fall-1984",
+          "collection": "whole-earth-software-review"
+        },
+        {
+          "slug": "whole-earth-software-catalog-2_0-fall-1985",
+          "path": "/p/whole-earth-software-catalog-2_0-fall-1985",
+          "title": "Fall 1985",
+          "archive_id": "wholeearthsoftwa00unse_3",
+          "url": "https://wholeearth.info/p/whole-earth-software-catalog-2_0-fall-1985",
+          "collection": "whole-earth-software-review"
+        }
+      ]
+    },
+    {
+      "id": "whole-earth-review",
+      "index": "④",
+      "name_en": "Whole Earth Review",
+      "count": 47,
+      "publications": [
+        {
+          "slug": "whole-earth-review-january-1985",
+          "path": "/p/whole-earth-review-january-1985",
+          "title": "January 1985",
+          "archive_id": "wholeearthreview00unse",
+          "url": "https://wholeearth.info/p/whole-earth-review-january-1985",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-march-1985",
+          "path": "/p/whole-earth-review-march-1985",
+          "title": "March 1985",
+          "archive_id": "wholeearthreview00unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-review-march-1985",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-may-1985",
+          "path": "/p/whole-earth-review-may-1985",
+          "title": "May 1985",
+          "archive_id": "wholeearthreview00unse_1",
+          "url": "https://wholeearth.info/p/whole-earth-review-may-1985",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-july-1985",
+          "path": "/p/whole-earth-review-july-1985",
+          "title": "July 1985",
+          "archive_id": "wholeearthreview00unse_2",
+          "url": "https://wholeearth.info/p/whole-earth-review-july-1985",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1985",
+          "path": "/p/whole-earth-review-fall-1985",
+          "title": "Fall 1985",
+          "archive_id": "wholeearthreview00unse_3",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1985",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1985",
+          "path": "/p/whole-earth-review-winter-1985",
+          "title": "Winter 1985",
+          "archive_id": "wholeearthreview00unse_4",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1985",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1986",
+          "path": "/p/whole-earth-review-spring-1986",
+          "title": "Spring 1986",
+          "archive_id": "wholeearthreview00unse_5",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1986",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1986",
+          "path": "/p/whole-earth-review-summer-1986",
+          "title": "Summer 1986",
+          "archive_id": "wholeearthreview00unse_6",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1986",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1986",
+          "path": "/p/whole-earth-review-fall-1986",
+          "title": "Fall 1986",
+          "archive_id": "wholeearthreview00unse_7",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1986",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1986",
+          "path": "/p/whole-earth-review-winter-1986",
+          "title": "Winter 1986",
+          "archive_id": "wholeearthreview00unse_8",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1986",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1987",
+          "path": "/p/whole-earth-review-spring-1987",
+          "title": "Spring 1987",
+          "archive_id": "wholeearthreview00unse_9",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1987",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1987",
+          "path": "/p/whole-earth-review-summer-1987",
+          "title": "Summer 1987",
+          "archive_id": "wholeearthreview00unse_10",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1987",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1987",
+          "path": "/p/whole-earth-review-fall-1987",
+          "title": "Fall 1987",
+          "archive_id": "wholeearthreview00unse_11",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1987",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1987",
+          "path": "/p/whole-earth-review-winter-1987",
+          "title": "Winter 1987",
+          "archive_id": "wholeearthreview00unse_12",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1987",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1988",
+          "path": "/p/whole-earth-review-spring-1988",
+          "title": "Spring 1988",
+          "archive_id": "wholeearthreview00unse_13",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1988",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1988",
+          "path": "/p/whole-earth-review-summer-1988",
+          "title": "Summer 1988",
+          "archive_id": "wholeearthreview00unse_14",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1988",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1988",
+          "path": "/p/whole-earth-review-fall-1988",
+          "title": "Fall 1988",
+          "archive_id": "wholeearthreview00unse_15",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1988",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1988",
+          "path": "/p/whole-earth-review-winter-1988",
+          "title": "Winter 1988",
+          "archive_id": "wholeearthreview00unse_16",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1988",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1989",
+          "path": "/p/whole-earth-review-spring-1989",
+          "title": "Spring 1989",
+          "archive_id": "wholeearthreview00unse_17",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1989",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1989",
+          "path": "/p/whole-earth-review-summer-1989",
+          "title": "Summer 1989",
+          "archive_id": "wholeearthreview00unse_18",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1989",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1989",
+          "path": "/p/whole-earth-review-fall-1989",
+          "title": "Fall 1989",
+          "archive_id": "wholeearthreview00unse_19",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1989",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1989",
+          "path": "/p/whole-earth-review-winter-1989",
+          "title": "Winter 1989",
+          "archive_id": "wholeearthreview00unse_20",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1989",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1990",
+          "path": "/p/whole-earth-review-spring-1990",
+          "title": "Spring 1990",
+          "archive_id": "wholeearthreview00unse_21",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1990",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1990",
+          "path": "/p/whole-earth-review-summer-1990",
+          "title": "Summer 1990",
+          "archive_id": "wholeearthreview00unse_22",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1990",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1990",
+          "path": "/p/whole-earth-review-fall-1990",
+          "title": "Fall 1990",
+          "archive_id": "wholeearthreview00unse_23",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1990",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1990",
+          "path": "/p/whole-earth-review-winter-1990",
+          "title": "Winter 1990",
+          "archive_id": "wholeearthreview00unse_24",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1990",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1991",
+          "path": "/p/whole-earth-review-spring-1991",
+          "title": "Spring 1991",
+          "archive_id": "wholeearthreview00unse_25",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1991",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1991",
+          "path": "/p/whole-earth-review-summer-1991",
+          "title": "Summer 1991",
+          "archive_id": "wholeearthreview00unse_26",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1991",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1991",
+          "path": "/p/whole-earth-review-fall-1991",
+          "title": "Fall 1991",
+          "archive_id": "wholeearthreview00unse_27",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1991",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1991",
+          "path": "/p/whole-earth-review-winter-1991",
+          "title": "Winter 1991",
+          "archive_id": "wholeearthreview00unse_28",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1991",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1992",
+          "path": "/p/whole-earth-review-spring-1992",
+          "title": "Spring 1992",
+          "archive_id": "wholeearthreview00unse_29",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1992",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1992",
+          "path": "/p/whole-earth-review-summer-1992",
+          "title": "Summer 1992",
+          "archive_id": "wholeearthreview00unse_30",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1992",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1992",
+          "path": "/p/whole-earth-review-fall-1992",
+          "title": "Fall 1992",
+          "archive_id": "wholeearthreview00unse_31",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1992",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-5-year-index-1988-1992",
+          "path": "/p/whole-earth-5-year-index-1988-1992",
+          "title": "Winter 1992",
+          "archive_id": "wholeearth5yeari00unse",
+          "url": "https://wholeearth.info/p/whole-earth-5-year-index-1988-1992",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1992",
+          "path": "/p/whole-earth-review-winter-1992",
+          "title": "Winter 1992",
+          "archive_id": "wholeearthreview00unse_32",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1992",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1993",
+          "path": "/p/whole-earth-review-spring-1993",
+          "title": "Spring 1993",
+          "archive_id": "wholeearthreview00unse_33",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1993",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1993",
+          "path": "/p/whole-earth-review-summer-1993",
+          "title": "Summer 1993",
+          "archive_id": "wholeearthreview00unse_34",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1993",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1993",
+          "path": "/p/whole-earth-review-fall-1993",
+          "title": "Fall 1993",
+          "archive_id": "wholeearthreview00unse_35",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1993",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1993",
+          "path": "/p/whole-earth-review-winter-1993",
+          "title": "Winter 1993",
+          "archive_id": "wholeearthreview00unse_36",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1993",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1994",
+          "path": "/p/whole-earth-review-spring-1994",
+          "title": "Spring 1994",
+          "archive_id": "wholeearthreview00unse_37",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1994",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1994",
+          "path": "/p/whole-earth-review-summer-1994",
+          "title": "Summer 1994",
+          "archive_id": "wholeearthreview00unse_38",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1994",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1994",
+          "path": "/p/whole-earth-review-winter-1994",
+          "title": "Winter 1994",
+          "archive_id": "wholeearthreview00unse_39",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1994",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1995",
+          "path": "/p/whole-earth-review-spring-1995",
+          "title": "Spring 1995",
+          "archive_id": "wholeearthreview00unse_40",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1995",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-summer-1995",
+          "path": "/p/whole-earth-review-summer-1995",
+          "title": "Summer 1995",
+          "archive_id": "wholeearthreview00unse_41",
+          "url": "https://wholeearth.info/p/whole-earth-review-summer-1995",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-fall-1995",
+          "path": "/p/whole-earth-review-fall-1995",
+          "title": "Fall 1995",
+          "archive_id": "wholeearthreview00unse_42",
+          "url": "https://wholeearth.info/p/whole-earth-review-fall-1995",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-winter-1995",
+          "path": "/p/whole-earth-review-winter-1995",
+          "title": "Winter 1995",
+          "archive_id": "wholeearthreview00unse_43",
+          "url": "https://wholeearth.info/p/whole-earth-review-winter-1995",
+          "collection": "whole-earth-review"
+        },
+        {
+          "slug": "whole-earth-review-spring-1996",
+          "path": "/p/whole-earth-review-spring-1996",
+          "title": "Spring 1996",
+          "archive_id": "wholeearthreview00unse_44",
+          "url": "https://wholeearth.info/p/whole-earth-review-spring-1996",
+          "collection": "whole-earth-review"
+        }
+      ]
+    },
+    {
+      "id": "whole-earth-magazine",
+      "index": "⑤",
+      "name_en": "Whole Earth Magazine",
+      "count": 20,
+      "publications": [
+        {
+          "slug": "whole-earth-summer-1997",
+          "path": "/p/whole-earth-summer-1997",
+          "title": "Summer 1997",
+          "archive_id": "wholeearthsummer00unse",
+          "url": "https://wholeearth.info/p/whole-earth-summer-1997",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-winter-1997",
+          "path": "/p/whole-earth-winter-1997",
+          "title": "Winter 1997",
+          "archive_id": "wholeearthwinter00unse",
+          "url": "https://wholeearth.info/p/whole-earth-winter-1997",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-spring-1998",
+          "path": "/p/whole-earth-spring-1998",
+          "title": "Spring 1998",
+          "archive_id": "wholeearthspring00unse",
+          "url": "https://wholeearth.info/p/whole-earth-spring-1998",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-summer-1998",
+          "path": "/p/whole-earth-summer-1998",
+          "title": "Summer 1998",
+          "archive_id": "wholeearthsummer00unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-summer-1998",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-fall-1998",
+          "path": "/p/whole-earth-fall-1998",
+          "title": "Fall 1998",
+          "archive_id": "wholeearthfall1900unse",
+          "url": "https://wholeearth.info/p/whole-earth-fall-1998",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-spring-1999",
+          "path": "/p/whole-earth-spring-1999",
+          "title": "Spring 1999",
+          "archive_id": "wholeearthspring00unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-spring-1999",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-summer-1999",
+          "path": "/p/whole-earth-summer-1999",
+          "title": "Summer 1999",
+          "archive_id": "wholeearthsummer00unse_1",
+          "url": "https://wholeearth.info/p/whole-earth-summer-1999",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-fall-1999",
+          "path": "/p/whole-earth-fall-1999",
+          "title": "Fall 1999",
+          "archive_id": "wholeearthfall1900unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-fall-1999",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-winter-1999",
+          "path": "/p/whole-earth-winter-1999",
+          "title": "Winter 1999",
+          "archive_id": "wholeearthwinter00unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-winter-1999",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-spring-2000",
+          "path": "/p/whole-earth-spring-2000",
+          "title": "Spring 2000",
+          "archive_id": "wholeearthspring00unse_1",
+          "url": "https://wholeearth.info/p/whole-earth-spring-2000",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-summer-2000",
+          "path": "/p/whole-earth-summer-2000",
+          "title": "Summer 2000",
+          "archive_id": "wholeearthsummer00unse_2",
+          "url": "https://wholeearth.info/p/whole-earth-summer-2000",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-fall-2000",
+          "path": "/p/whole-earth-fall-2000",
+          "title": "Fall 2000",
+          "archive_id": "wholeearthfall2000unse",
+          "url": "https://wholeearth.info/p/whole-earth-fall-2000",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-winter-2000",
+          "path": "/p/whole-earth-winter-2000",
+          "title": "Winter 2000",
+          "archive_id": "wholeearthwinter00unse_1",
+          "url": "https://wholeearth.info/p/whole-earth-winter-2000",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-spring-2001",
+          "path": "/p/whole-earth-spring-2001",
+          "title": "Spring 2001",
+          "archive_id": "wholeearthspring00unse_2",
+          "url": "https://wholeearth.info/p/whole-earth-spring-2001",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-summer-2001",
+          "path": "/p/whole-earth-summer-2001",
+          "title": "Summer 2001",
+          "archive_id": "wholeearthsummer00unse_3",
+          "url": "https://wholeearth.info/p/whole-earth-summer-2001",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-winter-2001",
+          "path": "/p/whole-earth-winter-2001",
+          "title": "Winter 2001",
+          "archive_id": "wholeearthwinter00unse_2",
+          "url": "https://wholeearth.info/p/whole-earth-winter-2001",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-spring-2002",
+          "path": "/p/whole-earth-spring-2002",
+          "title": "Spring 2002",
+          "archive_id": "wholeearthspring00unse_3",
+          "url": "https://wholeearth.info/p/whole-earth-spring-2002",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-summer-2002",
+          "path": "/p/whole-earth-summer-2002",
+          "title": "Summer 2002",
+          "archive_id": "wholeearthsummer00unse_4",
+          "url": "https://wholeearth.info/p/whole-earth-summer-2002",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-fall-2002",
+          "path": "/p/whole-earth-fall-2002",
+          "title": "Fall 2002",
+          "archive_id": "wholeearthfall2000unse_0",
+          "url": "https://wholeearth.info/p/whole-earth-fall-2002",
+          "collection": "whole-earth-magazine"
+        },
+        {
+          "slug": "whole-earth-winter-2002",
+          "path": "/p/whole-earth-winter-2002",
+          "title": "Winter 2002",
+          "archive_id": "wholeearthwinter00unse_3",
+          "url": "https://wholeearth.info/p/whole-earth-winter-2002",
+          "collection": "whole-earth-magazine"
+        }
+      ]
+    },
+    {
+      "id": "special-publications",
+      "index": "⑥",
+      "name_en": "Special Publications",
+      "count": 8,
+      "publications": [
+        {
+          "slug": "domebook-1",
+          "path": "/p/domebook-1",
+          "title": "Spring 1970",
+          "archive_id": "domebook100unse",
+          "url": "https://wholeearth.info/p/domebook-1",
+          "collection": "special-publications"
+        },
+        {
+          "slug": "big-rock-candy-mountain",
+          "path": "/p/big-rock-candy-mountain",
+          "title": "Summer 1970",
+          "archive_id": "bigrockcandymoun00unse",
+          "url": "https://wholeearth.info/p/big-rock-candy-mountain",
+          "collection": "special-publications"
+        },
+        {
+          "slug": "ii-cybernetic-frontiers-january-1974",
+          "path": "/p/ii-cybernetic-frontiers-january-1974",
+          "title": "January 1974",
+          "archive_id": "iicyberneticfron00unse",
+          "url": "https://wholeearth.info/p/ii-cybernetic-frontiers-january-1974",
+          "collection": "special-publications"
+        },
+        {
+          "slug": "energy-primer-solar-water-wind-biofuels",
+          "path": "/p/energy-primer-solar-water-wind-biofuels",
+          "title": "1974",
+          "archive_id": "energyprimersola00unse",
+          "url": "https://wholeearth.info/p/energy-primer-solar-water-wind-biofuels",
+          "collection": "special-publications"
+        },
+        {
+          "slug": "space-colonies-december-1977",
+          "path": "/p/space-colonies-december-1977",
+          "title": "December 1977",
+          "archive_id": "spacecoloniesdec00unse",
+          "url": "https://wholeearth.info/p/space-colonies-december-1977",
+          "collection": "special-publications"
+        },
+        {
+          "slug": "soft-tech-spring-1978",
+          "path": "/p/soft-tech-spring-1978",
+          "title": "Spring 1978",
+          "archive_id": "softtechspring1900unse",
+          "url": "https://wholeearth.info/p/soft-tech-spring-1978",
+          "collection": "special-publications"
+        },
+        {
+          "slug": "10-years-of-coevolution-quarterly-news-that-stayed-news-1986",
+          "path": "/p/10-years-of-coevolution-quarterly-news-that-stayed-news-1986",
+          "title": "1986",
+          "archive_id": "10yearsofcoevolu00unse",
+          "url": "https://wholeearth.info/p/10-years-of-coevolution-quarterly-news-that-stayed-news-1986",
+          "collection": "special-publications"
+        },
+        {
+          "slug": "helping-nature-heal-spring-1991",
+          "path": "/p/helping-nature-heal-spring-1991",
+          "title": "Spring 1991",
+          "archive_id": "helpingnaturehea00unse",
+          "url": "https://wholeearth.info/p/helping-nature-heal-spring-1991",
+          "collection": "special-publications"
+        }
+      ]
+    }
+  ]
+}
