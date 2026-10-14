@@ -14,6 +14,7 @@
       "title_zh": "开篇",
       "leaf_start": 0,
       "leaf_end": 3,
+      "notes": "Cover · PURPOSE/FUNCTION · Contents · CATALOG procedure",
       "entry_ids": [
         "wec-1968-fall-cover",
         "wec-1968-fall-purpose-function",
@@ -54,7 +55,26 @@
       "title_zh": "居所与土地利用",
       "leaf_start": 14,
       "leaf_end": 22,
-      "entry_ids": []
+      "entry_ids": [
+        "wec-1968-fall-space-structures",
+        "wec-1968-fall-dymaxion-world",
+        "wec-1968-fall-tensile-structures-vol1",
+        "wec-1968-fall-dome-cookbook",
+        "wec-1968-fall-good-news",
+        "wec-1968-fall-architectural-design",
+        "wec-1968-fall-japanese-house",
+        "wec-1968-fall-alaskan-mill",
+        "wec-1968-fall-audel-guides",
+        "wec-1968-fall-village-technology",
+        "wec-1968-fall-aladdin-kerosene-lamps",
+        "wec-1968-fall-indian-tipi",
+        "wec-1968-fall-tipis",
+        "wec-1968-fall-mans-role-in-changing-the-face-of-the",
+        "wec-1968-fall-two-mushroom-books",
+        "wec-1968-fall-abc-xyz-bee-culture",
+        "wec-1968-fall-organic-gardening-how-to-grow-vegetables-and-fruits",
+        "wec-1968-fall-universal-mill"
+      ]
     },
     {
       "id": "industry-and-craft",
@@ -62,7 +82,32 @@
       "title_zh": "工业与手艺",
       "leaf_start": 23,
       "leaf_end": 32,
-      "entry_ids": []
+      "entry_ids": [
+        "wec-1968-fall-intro-engineering-design",
+        "wec-1968-fall-way-things-work",
+        "wec-1968-fall-measure-of-man",
+        "wec-1968-fall-thomas-register",
+        "wec-1968-fall-new-scientist",
+        "wec-1968-fall-scientific-american",
+        "wec-1968-fall-clearinghouse",
+        "wec-1968-fall-industrial-design",
+        "wec-1968-fall-product-engineering",
+        "wec-1968-fall-science-and-civilization-in-china-volume-iv-part",
+        "wec-1968-fall-silvo-catalog",
+        "wec-1968-fall-blasters-handbook",
+        "wec-1968-fall-brookstone-tools",
+        "wec-1968-fall-jensen-tools",
+        "wec-1968-fall-direct-use-of-the-suns-energy",
+        "wec-1968-fall-structure-form-movement",
+        "wec-1968-fall-bookmaking",
+        "wec-1968-fall-van-waters-rogers",
+        "wec-1968-fall-zone-system-manual",
+        "wec-1968-fall-a-sculptors-manual",
+        "wec-1968-fall-creative-glass-blowing",
+        "wec-1968-fall-buckskin",
+        "wec-1968-fall-cut-beads",
+        "wec-1968-fall-melrose-yarns"
+      ]
     },
     {
       "id": "communications",
@@ -70,7 +115,28 @@
       "title_zh": "传播与通讯",
       "leaf_start": 33,
       "leaf_end": 41,
-      "entry_ids": []
+      "entry_ids": [
+        "wec-1968-fall-information",
+        "wec-1968-fall-mind-of-the-dolphin",
+        "wec-1968-fall-human-biocomputer",
+        "wec-1968-fall-9100a-calculator",
+        "wec-1968-fall-cybernetics",
+        "wec-1968-fall-design-for-a-brain",
+        "wec-1968-fall-education-automation",
+        "wec-1968-fall-eye-and-brain",
+        "wec-1968-fall-intelligent-life-universe",
+        "wec-1968-fall-mcgraw-hill-encyclopedia-space",
+        "wec-1968-fall-heathkit",
+        "wec-1968-fall-lafayette-allied-catalogs",
+        "wec-1968-fall-modern-business-forms",
+        "wec-1968-fall-american-cinematographer",
+        "wec-1968-fall-documentary-film-production",
+        "wec-1968-fall-auto-repair-manual",
+        "wec-1968-fall-television-production",
+        "wec-1968-fall-art-prints",
+        "wec-1968-fall-books-magazine",
+        "wec-1968-fall-subject-guide-books-in-print"
+      ]
     },
     {
       "id": "community",
@@ -78,7 +144,20 @@
       "title_zh": "社群",
       "leaf_start": 42,
       "leaf_end": 45,
-      "entry_ids": []
+      "entry_ids": [
+        "wec-1968-fall-green-revolution",
+        "wec-1968-fall-modern-utopian",
+        "wec-1968-fall-realist",
+        "wec-1968-fall-kibbutz",
+        "wec-1968-fall-dune",
+        "wec-1968-fall-groups-under-stress",
+        "wec-1968-fall-consumer-reports",
+        "wec-1968-fall-land-for-sale",
+        "wec-1968-fall-merck-manual",
+        "wec-1968-fall-government-publications",
+        "wec-1968-fall-how-to-get-20-to-90-off-on",
+        "wec-1968-fall-the-armchair-shoppers-guide"
+      ]
     },
     {
       "id": "nomadics",
@@ -86,7 +165,26 @@
       "title_zh": "游牧与户外",
       "leaf_start": 46,
       "leaf_end": 52,
-      "entry_ids": []
+      "entry_ids": [
+        "wec-1968-fall-innovator",
+        "wec-1968-fall-book-of-survival",
+        "wec-1968-fall-the-retreaters-bibliography",
+        "wec-1968-fall-survival-arts-paiutes",
+        "wec-1968-fall-survival-book",
+        "wec-1968-fall-camping-and-woodcraft",
+        "wec-1968-fall-light-weight-camping-equipment-and-how-to-make",
+        "wec-1968-fall-backpacking",
+        "wec-1968-fall-recreational-equipment",
+        "wec-1968-fall-ll-bean",
+        "wec-1968-fall-gerry-outdoor",
+        "wec-1968-fall-kaibab-boots",
+        "wec-1968-fall-hot-springs",
+        "wec-1968-fall-national-geographic",
+        "wec-1968-fall-explorers-trademart-log",
+        "wec-1968-fall-sierra-club",
+        "wec-1968-fall-narrow-road-deep-north",
+        "wec-1968-fall-trout-fishing-in-america"
+      ]
     },
     {
       "id": "learning",
@@ -94,7 +192,31 @@
       "title_zh": "学习",
       "leaf_start": 53,
       "leaf_end": 62,
-      "entry_ids": []
+      "entry_ids": [
+        "wec-1968-fall-black-box",
+        "wec-1968-fall-toward-theory-of-instruction",
+        "wec-1968-fall-cuisenaire-rods",
+        "wec-1968-fall-this-magazine-about-schools",
+        "wec-1968-fall-ita",
+        "wec-1968-fall-kaiser-aluminum-news",
+        "wec-1968-fall-life-science-library",
+        "wec-1968-fall-700-science-experiments",
+        "wec-1968-fall-dr-nim",
+        "wec-1968-fall-edmund-scientific",
+        "wec-1968-fall-wff-n-proof",
+        "wec-1968-fall-we-built-our-own-computers",
+        "wec-1968-fall-american-boys-handy-book",
+        "wec-1968-fall-pioneer-posters",
+        "wec-1968-fall-meditation-cushions",
+        "wec-1968-fall-sense-relaxation",
+        "wec-1968-fall-zen-flesh-zen-bones",
+        "wec-1968-fall-i-ching",
+        "wec-1968-fall-psycho-cybernetics",
+        "wec-1968-fall-self-hypnotism",
+        "wec-1968-fall-yaqui-way-of-knowledge",
+        "wec-1968-fall-fundamentals-of-yoga",
+        "wec-1968-fall-act-of-creation"
+      ]
     },
     {
       "id": "back-matter",
@@ -102,8 +224,16 @@
       "title_zh": "附录（广告、表格、Portola）",
       "leaf_start": 63,
       "leaf_end": 69,
-      "entry_ids": []
+      "notes": "n68–n69 often empty OCR",
+      "entry_ids": [
+        "wec-1968-fall-ads-n63",
+        "wec-1968-fall-subscription-forms",
+        "wec-1968-fall-contents-rear",
+        "wec-1968-fall-portola-institute",
+        "wec-1968-fall-closing-we-cant-put-it-together-it-is"
+      ]
     }
   ],
-  "policy": "entry_ids only; full body_en/body_zh stay in local tribute-work until rights allow."
+  "entry_count_drafted": 142,
+  "policy": "Public tree lists entry ids only; full bilingual bodies stay in local tribute-work."
 }
