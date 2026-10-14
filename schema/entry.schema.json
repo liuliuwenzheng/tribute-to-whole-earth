@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WholeEarthEntry",
+  "type": "object",
+  "required": ["id", "volume", "kind", "title_en"],
+  "properties": {
+    "id": { "type": "string", "description": "stable id within volume" },
+    "volume": { "type": "string", "description": "volume slug" },
+    "kind": { "enum": ["tool", "article", "review", "letter", "ad", "other"] },
+    "page_start": { "type": "integer" },
+    "page_end": { "type": "integer" },
+    "title_en": { "type": "string" },
+    "title_zh": { "type": "string" },
+    "authors": { "type": "array", "items": { "type": "string" } },
+    "body_en": { "type": "string" },
+    "body_zh": { "type": "string" },
+    "topics": { "type": "array", "items": { "type": "string" } },
+    "see_also": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "volume": { "type": "string" },
+          "entry_id": { "type": "string" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "archive_id": { "type": "string" },
+        "ia_page": { "type": "string" },
+        "wholeearth_url": { "type": "string" }
+      }
+    }
+  }
+}

@@ -1,17 +1,24 @@
 # 致谢 · Credits
 
-本项目名：**致敬伟大的全球概览**。  
-Project title: **Tribute to the Whole Earth Catalog**.
+项目名：**致敬伟大的全球概览** / **Tribute to the Whole Earth Catalog**
 
-我们只做数字化索引与中英对照，便于查阅；不替代、不冒充原刊。
+本项目是对伟大刊物的数字化致敬：做成可搜索、可关联的中英对照电子百科，方便更多人查阅。版权与荣誉归开创者与贡献者。
 
-## 必须致谢的人与机构
+## 创办与出版
 
-1. **Stewart Brand** — 《全球概览》创办人。
-2. **POINT Foundation** — 相关出版与公益支持。
-3. **Whole Earth 历代编辑、作者、插画与书评贡献者**（Catalog / CoEvolution Quarterly / Software Review / Review / Magazine / Specials，约 1968–2002）。
-4. **Internet Archive** — 扫描与托管，使后人得以阅读。
-5. **wholeearth.info** 的制作者与设计师（公开资料中包括 **Jon Gacnik**、**Mindy Seu** 等）。
-6. 一切曾把「通向工具」（access to tools）精神传下去的人。
+- **Stewart Brand** — 《全球概览》创办人  
+- **POINT Foundation** — 相关出版与支持  
 
-本仓库维护者仅做整理，不享有刊物版权。
+## 内容贡献者（概括）
+
+Whole Earth Catalog、CoEvolution Quarterly、Whole Earth Software Review / Catalog、Whole Earth Review、Whole Earth Magazine 及特别出版物中的**历代编辑、作者、插画、摄影与工具书评作者**（约 1968–2002）。无法在此穷尽名单；做每一本时在该卷 `CREDITS.md` 中尽量写全当期署名。
+
+## 数字化与索引
+
+- **Internet Archive** — 扫描与托管  
+- **wholeearth.info** — 公开索引（设计等致谢 **Jon Gacnik**、**Mindy Seu** 等）  
+- 可检索伴侣：[searchwhole.earth](https://searchwhole.earth/)（Lucas Gelfond 等；本仓侧重中英全文百科，可互通）
+
+## 本仓库
+
+维护者只做整理、OCR 流程、中英对照与检索壳，不享有刊物版权。疏漏请开 Issue。
