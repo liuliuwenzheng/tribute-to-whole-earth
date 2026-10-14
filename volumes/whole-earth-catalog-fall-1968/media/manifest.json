@@ -1,12 +1,520 @@
 {
   "archive_id": "wholeearthcatalo00unse_8",
-  "policy": "Keep figures via IA URLs; do not drop illustrations in the bilingual reader.",
+  "title": "Whole Earth Catalog Fall 1968",
+  "founding_issue": true,
+  "note_zh": "1968 年秋创刊号（第一本 Whole Earth Catalog）",
+  "imagecount": 70,
+  "leaf_range": {
+    "first": 0,
+    "last": 69
+  },
+  "width": 1000,
+  "source_patterns": {
+    "cover": "https://archive.org/download/wholeearthcatalo00unse_8/page/cover_w1000.jpg",
+    "leaf": "https://archive.org/download/wholeearthcatalo00unse_8/page/n{leaf}_w1000.jpg"
+  },
+  "policy": "Keep figures via IA URLs; do not drop illustrations. Binaries stay in local tribute-work only.",
+  "ia_details": "https://archive.org/details/wholeearthcatalo00unse_8",
+  "page_count_including_cover_alias": 71,
+  "leaf_count": 70,
   "pages": [
     {
-      "page": 0,
-      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/cover_w1000.jpg",
-      "role": "cover"
+      "index": 0,
+      "ia_name": "cover",
+      "leaf": null,
+      "role": "cover_alias",
+      "note": "IA cover shortcut; for this item MD5-identical to n0 (front color card)",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/cover_w1000.jpg"
+    },
+    {
+      "index": 1,
+      "ia_name": "n0",
+      "leaf": 0,
+      "role": "color_card",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n0_w1000.jpg"
+    },
+    {
+      "index": 2,
+      "ia_name": "n1",
+      "leaf": 1,
+      "role": "cover",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n1_w1000.jpg"
+    },
+    {
+      "index": 3,
+      "ia_name": "n2",
+      "leaf": 2,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n2_w1000.jpg"
+    },
+    {
+      "index": 4,
+      "ia_name": "n3",
+      "leaf": 3,
+      "role": "title",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n3_w1000.jpg"
+    },
+    {
+      "index": 5,
+      "ia_name": "n4",
+      "leaf": 4,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n4_w1000.jpg"
+    },
+    {
+      "index": 6,
+      "ia_name": "n5",
+      "leaf": 5,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n5_w1000.jpg"
+    },
+    {
+      "index": 7,
+      "ia_name": "n6",
+      "leaf": 6,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n6_w1000.jpg"
+    },
+    {
+      "index": 8,
+      "ia_name": "n7",
+      "leaf": 7,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n7_w1000.jpg"
+    },
+    {
+      "index": 9,
+      "ia_name": "n8",
+      "leaf": 8,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n8_w1000.jpg"
+    },
+    {
+      "index": 10,
+      "ia_name": "n9",
+      "leaf": 9,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n9_w1000.jpg"
+    },
+    {
+      "index": 11,
+      "ia_name": "n10",
+      "leaf": 10,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n10_w1000.jpg"
+    },
+    {
+      "index": 12,
+      "ia_name": "n11",
+      "leaf": 11,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n11_w1000.jpg"
+    },
+    {
+      "index": 13,
+      "ia_name": "n12",
+      "leaf": 12,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n12_w1000.jpg"
+    },
+    {
+      "index": 14,
+      "ia_name": "n13",
+      "leaf": 13,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n13_w1000.jpg"
+    },
+    {
+      "index": 15,
+      "ia_name": "n14",
+      "leaf": 14,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n14_w1000.jpg"
+    },
+    {
+      "index": 16,
+      "ia_name": "n15",
+      "leaf": 15,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n15_w1000.jpg"
+    },
+    {
+      "index": 17,
+      "ia_name": "n16",
+      "leaf": 16,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n16_w1000.jpg"
+    },
+    {
+      "index": 18,
+      "ia_name": "n17",
+      "leaf": 17,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n17_w1000.jpg"
+    },
+    {
+      "index": 19,
+      "ia_name": "n18",
+      "leaf": 18,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n18_w1000.jpg"
+    },
+    {
+      "index": 20,
+      "ia_name": "n19",
+      "leaf": 19,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n19_w1000.jpg"
+    },
+    {
+      "index": 21,
+      "ia_name": "n20",
+      "leaf": 20,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n20_w1000.jpg"
+    },
+    {
+      "index": 22,
+      "ia_name": "n21",
+      "leaf": 21,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n21_w1000.jpg"
+    },
+    {
+      "index": 23,
+      "ia_name": "n22",
+      "leaf": 22,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n22_w1000.jpg"
+    },
+    {
+      "index": 24,
+      "ia_name": "n23",
+      "leaf": 23,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n23_w1000.jpg"
+    },
+    {
+      "index": 25,
+      "ia_name": "n24",
+      "leaf": 24,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n24_w1000.jpg"
+    },
+    {
+      "index": 26,
+      "ia_name": "n25",
+      "leaf": 25,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n25_w1000.jpg"
+    },
+    {
+      "index": 27,
+      "ia_name": "n26",
+      "leaf": 26,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n26_w1000.jpg"
+    },
+    {
+      "index": 28,
+      "ia_name": "n27",
+      "leaf": 27,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n27_w1000.jpg"
+    },
+    {
+      "index": 29,
+      "ia_name": "n28",
+      "leaf": 28,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n28_w1000.jpg"
+    },
+    {
+      "index": 30,
+      "ia_name": "n29",
+      "leaf": 29,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n29_w1000.jpg"
+    },
+    {
+      "index": 31,
+      "ia_name": "n30",
+      "leaf": 30,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n30_w1000.jpg"
+    },
+    {
+      "index": 32,
+      "ia_name": "n31",
+      "leaf": 31,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n31_w1000.jpg"
+    },
+    {
+      "index": 33,
+      "ia_name": "n32",
+      "leaf": 32,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n32_w1000.jpg"
+    },
+    {
+      "index": 34,
+      "ia_name": "n33",
+      "leaf": 33,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n33_w1000.jpg"
+    },
+    {
+      "index": 35,
+      "ia_name": "n34",
+      "leaf": 34,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n34_w1000.jpg"
+    },
+    {
+      "index": 36,
+      "ia_name": "n35",
+      "leaf": 35,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n35_w1000.jpg"
+    },
+    {
+      "index": 37,
+      "ia_name": "n36",
+      "leaf": 36,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n36_w1000.jpg"
+    },
+    {
+      "index": 38,
+      "ia_name": "n37",
+      "leaf": 37,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n37_w1000.jpg"
+    },
+    {
+      "index": 39,
+      "ia_name": "n38",
+      "leaf": 38,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n38_w1000.jpg"
+    },
+    {
+      "index": 40,
+      "ia_name": "n39",
+      "leaf": 39,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n39_w1000.jpg"
+    },
+    {
+      "index": 41,
+      "ia_name": "n40",
+      "leaf": 40,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n40_w1000.jpg"
+    },
+    {
+      "index": 42,
+      "ia_name": "n41",
+      "leaf": 41,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n41_w1000.jpg"
+    },
+    {
+      "index": 43,
+      "ia_name": "n42",
+      "leaf": 42,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n42_w1000.jpg"
+    },
+    {
+      "index": 44,
+      "ia_name": "n43",
+      "leaf": 43,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n43_w1000.jpg"
+    },
+    {
+      "index": 45,
+      "ia_name": "n44",
+      "leaf": 44,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n44_w1000.jpg"
+    },
+    {
+      "index": 46,
+      "ia_name": "n45",
+      "leaf": 45,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n45_w1000.jpg"
+    },
+    {
+      "index": 47,
+      "ia_name": "n46",
+      "leaf": 46,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n46_w1000.jpg"
+    },
+    {
+      "index": 48,
+      "ia_name": "n47",
+      "leaf": 47,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n47_w1000.jpg"
+    },
+    {
+      "index": 49,
+      "ia_name": "n48",
+      "leaf": 48,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n48_w1000.jpg"
+    },
+    {
+      "index": 50,
+      "ia_name": "n49",
+      "leaf": 49,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n49_w1000.jpg"
+    },
+    {
+      "index": 51,
+      "ia_name": "n50",
+      "leaf": 50,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n50_w1000.jpg"
+    },
+    {
+      "index": 52,
+      "ia_name": "n51",
+      "leaf": 51,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n51_w1000.jpg"
+    },
+    {
+      "index": 53,
+      "ia_name": "n52",
+      "leaf": 52,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n52_w1000.jpg"
+    },
+    {
+      "index": 54,
+      "ia_name": "n53",
+      "leaf": 53,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n53_w1000.jpg"
+    },
+    {
+      "index": 55,
+      "ia_name": "n54",
+      "leaf": 54,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n54_w1000.jpg"
+    },
+    {
+      "index": 56,
+      "ia_name": "n55",
+      "leaf": 55,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n55_w1000.jpg"
+    },
+    {
+      "index": 57,
+      "ia_name": "n56",
+      "leaf": 56,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n56_w1000.jpg"
+    },
+    {
+      "index": 58,
+      "ia_name": "n57",
+      "leaf": 57,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n57_w1000.jpg"
+    },
+    {
+      "index": 59,
+      "ia_name": "n58",
+      "leaf": 58,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n58_w1000.jpg"
+    },
+    {
+      "index": 60,
+      "ia_name": "n59",
+      "leaf": 59,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n59_w1000.jpg"
+    },
+    {
+      "index": 61,
+      "ia_name": "n60",
+      "leaf": 60,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n60_w1000.jpg"
+    },
+    {
+      "index": 62,
+      "ia_name": "n61",
+      "leaf": 61,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n61_w1000.jpg"
+    },
+    {
+      "index": 63,
+      "ia_name": "n62",
+      "leaf": 62,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n62_w1000.jpg"
+    },
+    {
+      "index": 64,
+      "ia_name": "n63",
+      "leaf": 63,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n63_w1000.jpg"
+    },
+    {
+      "index": 65,
+      "ia_name": "n64",
+      "leaf": 64,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n64_w1000.jpg"
+    },
+    {
+      "index": 66,
+      "ia_name": "n65",
+      "leaf": 65,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n65_w1000.jpg"
+    },
+    {
+      "index": 67,
+      "ia_name": "n66",
+      "leaf": 66,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n66_w1000.jpg"
+    },
+    {
+      "index": 68,
+      "ia_name": "n67",
+      "leaf": 67,
+      "role": "page",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n67_w1000.jpg"
+    },
+    {
+      "index": 69,
+      "ia_name": "n68",
+      "leaf": 68,
+      "role": "cover",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n68_w1000.jpg"
+    },
+    {
+      "index": 70,
+      "ia_name": "n69",
+      "leaf": 69,
+      "role": "color_card",
+      "ia_image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n69_w1000.jpg"
     }
-  ],
-  "todo": "Expand to full page list during OCR pass"
+  ]
 }
