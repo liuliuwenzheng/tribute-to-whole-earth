@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """Refresh data/catalog.json from wholeearth.info homepage."""
-Refresh data/catalog.json from https://wholeearth.info/
 # Refresh data/catalog.json from https://wholeearth.info/
 # Refresh data/catalog.json from https://wholeearth.info/
 
