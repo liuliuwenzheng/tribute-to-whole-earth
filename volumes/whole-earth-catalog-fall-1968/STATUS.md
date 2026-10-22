@@ -11,17 +11,18 @@
 - [x] toc（九大板块页号；本机 `toc.json` / 公开 `toc.public.json` 已挂全部 entry id）
 - [x] entries draft：九大板块本机 **142** 条（含完整 `body_en`；公开仓仅 id）
   - opening 4 · Understanding Whole Systems 18 · Shelter 18 · Industry 24 · Communications 20 · Community 12 · Nomadics 18 · Learning 23 · Back matter 5
-- [~] proof (EN)：多栏页仍待对照 IA 按栏重切；当前策略=整页 OCR + `ocr_note`
+- [x] proof (EN 本机)：`en_align_remaining_hard=[]`（难对齐手切已收）；多栏仍以整页 OCR + `ocr_note` 策略
 - [x] translate (ZH 全文)：本机 **142/142** 条均有完整 `title_zh`/`body_zh`（非概要）
   - opening **4/4** · UWS **18/18** · Shelter **18/18** · Industry **24/24** · Communications **20/20** · Community **12/12** · Nomadics **18/18** · Learning **23/23** · Back matter **5/5**
   - 多栏乱码处：可读评介与引文尽量全文对译，并以 `zh_note` 标出待 IA 重切段落
-- [ ] figures（图与图注对齐；条目已挂 ia_image_url）
+- [x] figures（本机：图注对齐 + 同页多条目裁切；公开仓仍仅 manifest URL）
 - [ ] link
 - [x] lessons（多栏 OCR / 板块边界 / 批量起草 / 全卷中译经验）
-- [x] local reader（本机双语浏览）：`tribute-work/.../reader/`（全文仅本地，未进公开仓）
+- [x] local reader（本机双语浏览）：条目式中英对照 + 配图；克制古希腊风样式；全文仅本地，未进公开仓）
 - [x] original downloads（本机）：PDF / EPUB；公开仓**不**存放整书二进制，仅下列 IA 直链
 - [x] page viewer v1（本机）：`reader/page.html` — 原版页图为主体，悬停 hOCR 区块出中英解释
-- [ ] done
+- [x] 本机验收过（2026-10-22 老大拍板：Fall 本机验收通过，正式开 Spring；全文/大图仍不推公开仓）
+- [ ] done（公开全文托管仍待权利许可）
 
 ## 原版下载（Internet Archive）
 

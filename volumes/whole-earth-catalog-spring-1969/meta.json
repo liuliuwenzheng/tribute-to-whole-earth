@@ -1,0 +1,29 @@
+{
+  "slug": "whole-earth-catalog-spring-1969",
+  "title_en": "Whole Earth Catalog — Spring 1969",
+  "title_zh": "全球概览 — 1969年春",
+  "collection": "whole-earth-catalogs",
+  "date_label": "Spring 1969",
+  "archive_id": "wholeearthcatalo00unse_10",
+  "wholeearth_url": "https://wholeearth.info/p/whole-earth-catalog-spring-1969",
+  "ia_details": "https://archive.org/details/wholeearthcatalo00unse_10",
+  "status": "translate_in_progress",
+  "language_pair": [
+    "en",
+    "zh-CN"
+  ],
+  "note": "Volume 2. Full EN/ZH text local only (RIGHTS). Public repo holds STATUS/TOC ids/progress sentences.",
+  "standards": {
+    "full_translation": true,
+    "keep_figures": true,
+    "accumulate_lessons": true
+  },
+  "seq": 2,
+  "is_founding_issue": false,
+  "page_count_ia": 134,
+  "entries_total": 302,
+  "entries_with_zh_local": 143,
+  "ocr": {
+    "in_public_repo": false
+  }
+}

@@ -10,8 +10,8 @@
 
 | 序号 | 状态 | 系列 | 刊期 | 工位 |
 | ---: | --- | --- | --- | --- |
-| 1 | 进行中 | Whole Earth Catalogs | Fall 1968 | [`whole-earth-catalog-fall-1968`](./volumes/whole-earth-catalog-fall-1968/) |
-| 2 | 排队 | Whole Earth Catalogs | Spring 1969 | `whole-earth-catalog-spring-1969` |
+| 1 | 本机验收过 | Whole Earth Catalogs | Fall 1968 | [`whole-earth-catalog-fall-1968`](./volumes/whole-earth-catalog-fall-1968/) |
+| 2 | 进行中 | Whole Earth Catalogs | Spring 1969 | [`whole-earth-catalog-spring-1969`](./volumes/whole-earth-catalog-spring-1969/) |
 | 3 | 排队 | Whole Earth Catalogs | July 1969 | `difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1969` |
 | 4 | 排队 | Whole Earth Catalogs | Fall 1969 | `whole-earth-catalog-fall-1969` |
 | 5 | 排队 | Whole Earth Catalogs | September 1969 | `difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1969` |

@@ -10,7 +10,7 @@
     "note_zh": "1968年秋《全球概览》为创刊号（第一本 Whole Earth Catalog）。按序从此本开始。",
     "note_en": "Fall 1968 is the founding issue of the Whole Earth Catalog. Start here and proceed in order."
   },
-  "updated_at": "2026-10-14T08:16:03Z",
+  "updated_at": "2026-10-22T13:23:31Z",
   "volume_count": 147,
   "volumes": [
     {
@@ -23,8 +23,8 @@
       "title_en": "Fall 1968",
       "archive_id": "wholeearthcatalo00unse_8",
       "url": "https://wholeearth.info/p/whole-earth-catalog-fall-1968",
-      "status": "in_progress",
-      "phase": "ocr_done"
+      "status": "local_accepted",
+      "phase": "local_accepted_2026-10-22"
     },
     {
       "seq": 2,
@@ -36,7 +36,8 @@
       "title_en": "Spring 1969",
       "archive_id": "wholeearthcatalo00unse_10",
       "url": "https://wholeearth.info/p/whole-earth-catalog-spring-1969",
-      "status": "queued"
+      "status": "in_progress",
+      "phase": "translate_zh"
     },
     {
       "seq": 3,
