@@ -8,3 +8,13 @@ out/
 *.log
 .cache/
 tmp/
+
+# Local fulltext / packages must never enter the public tree
+*.tar.gz
+*.tar.gz.part*
+spring-1969-reader-xfer*/
+tribute-work/
+**/pages/
+**/ocr/
+**/translations/
+**/reader/data.js

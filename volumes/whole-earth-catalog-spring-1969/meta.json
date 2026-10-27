@@ -7,12 +7,12 @@
   "archive_id": "wholeearthcatalo00unse_10",
   "wholeearth_url": "https://wholeearth.info/p/whole-earth-catalog-spring-1969",
   "ia_details": "https://archive.org/details/wholeearthcatalo00unse_10",
-  "status": "translate_in_progress",
+  "status": "local_zh_complete",
   "language_pair": [
     "en",
     "zh-CN"
   ],
-  "note": "Volume 2. Full EN/ZH text local only (RIGHTS). Public repo holds STATUS/TOC ids/progress sentences.",
+  "note": "Volume 2. Local ZH 302/302 + figures/crops + reader done. Full EN/ZH text, page images, and reader package stay local only (RIGHTS). Public repo holds STATUS/TOC ids/progress sentences.",
   "standards": {
     "full_translation": true,
     "keep_figures": true,
@@ -22,8 +22,16 @@
   "is_founding_issue": false,
   "page_count_ia": 134,
   "entries_total": 302,
-  "entries_with_zh_local": 143,
+  "entries_with_zh_local": 302,
   "ocr": {
     "in_public_repo": false
-  }
+  },
+  "figures_local": {
+    "total": 304,
+    "needs_review": 0,
+    "entry_region_crop": 283,
+    "exclusive_fullpage": 21,
+    "in_public_repo": false
+  },
+  "reader_local": true
 }
